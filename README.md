@@ -1,2 +1,2 @@
-# learn_computer_in_rust
-just some computer knowlege learned from rust
+# learn cs by rust
+just some computer knowlege got from learning rust

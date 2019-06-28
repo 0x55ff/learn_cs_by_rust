@@ -1,0 +1,5 @@
+[book]
+authors = ["0x55ff"]
+multilingual = false
+src = "src"
+title = "learn_cs_by_rust"
